@@ -14,7 +14,7 @@ Before you begin, ensure the following dependencies are installed:
 - Additional dependencies might be required depending on the chosen TTS model and operating system (e.g., `espeak-ng` for certain configurations).
 
 ## Usage Instruction (use prebuild sounds)
-See [wiki: Installing Sound Files in FreePBX](https://github.com/babatonga/coqui-tts-freepbx/Installing-Sound-Files-in-FreePBX)
+See [wiki: Installing Sound Files in FreePBX](https://github.com/babatonga/coqui-tts-freepbx/wiki/Installing-Sound-Files-in-FreePBX)
 
 
 ## Usage Instructions (build your own)
