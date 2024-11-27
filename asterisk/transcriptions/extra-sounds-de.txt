@@ -1,0 +1,1415 @@
+1-for-am-2-for-pm: Drücken Sie 1 für vormittags oder 2 für nachmittags.
+1-yes-2-no: Drücken Sie 1 für Ja oder 2 für Nein.
+1: 1 Sekunde Stille
+10: 10 Sekunden Stille
+2: 2 Sekunden Stille
+3: 3 Sekunden Stille
+4: 4 Sekunden Stille
+5: 5 Sekunden Stille
+6: 6 Sekunden Stille
+7: 7 Sekunden Stille
+8: 8 Sekunden Stille
+9: 9 Sekunden Stille
+; Stille-Verzeichnis
+T-changed-to: [T] wurde zu [Extension Y] geändert
+T-is-not-available: [T] ist nicht verfügbar
+T-to-disable-ancmnt: [T] um diese Ankündigung zu deaktivieren
+T-to-enable-ancmnt: [T] um diese Ankündigung zu aktivieren
+T-to-hear-cur-ancmnt: [T] um die aktuelle Ankündigung zu hören
+T-to-leave-msg: [T] um eine Nachricht zu hinterlassen
+T-to-reach-main-office: [T] um das Hauptbüro zu erreichen
+T-to-rec-ancmnt: [T] um diese Ankündigung neu aufzunehmen
+T-to-rtrn-to-main-menu: [T] um zum Hauptmenü zurückzukehren
+a-charge-for-this-svc: Eine Gebühr für diesen Service
+a-collect-charge-of: Eine Gebührensammlung von
+a-collect-charge: Eine Gebührensammlung
+a-connect-charge-of: Eine Verbindungskosten von
+a-connect-charge: Eine Verbindungskosten
+abandon-all-hope: Gib alle Hoffnung auf, die hier wählen.
+abandons: aufgegeben
+ac: AC
+academic-support: Akademische Unterstützung
+access-code: Zugangscode:
+access-denied: Zugriff verweigert
+access-granted: Zugriff gewährt
+accessible-through-system: über dieses System zugänglich
+account-balance-is: Kontostand beträgt
+accounting: Buchhaltung
+accounts-payable: Kreditoren
+accounts-receivable: Debitoren
+added-to: hinzugefügt zu
+address: Adresse
+administration: Verwaltung
+advised-to-seek-shelter: werden aufgefordert, sofort Schutz zu suchen
+after-the-tone: nach dem Signalton
+afternoon: Nachmittag
+air-conditioner: Klimaanlage
+airport: Flughafen
+alabama: Alabama
+alarm: Alarm
+alaska: Alaska
+albuquerque: Albuquerque
+all-outgoing-lines-unavailable: Alle ausgehenden Leitungen sind derzeit nicht verfügbar.
+all-reps-busy: Alle unsere Vertreter sind derzeit beschäftigt.
+all-your-base: Alle deine Basis sind uns gehören.
+altitude: Höhe
+amp: Amp
+ampersand: Kaufmanns-Und
+amps: Amps
+an-error-has-occurred: Ein Fehler ist aufgetreten.
+an-error-has-occured: Ein Fehler ist aufgetreten. (Symlink zu 'an-error-has-occurred')
+and-area-code: und die Vorwahl...
+and-or: und/oder
+and-prs-pound-whn-finished: Und drücken Sie dann die Raute-Taste, wenn Sie fertig sind.
+and: und
+another-time: eine andere Zeit
+approaching: nähert sich
+approximately: ungefähr
+are-you-still-there: Sind Sie noch da? (Ungläubigkeit)
+are-you-still-there2: Bist du noch da? (Lustig)
+arizona: Arizona
+arkansas: Arkansas
+arlington: Arlington
+around: herum
+astcc-account-balance-is: Ihr Kontostand beträgt...
+astcc-account-number-invalid: Ihre Kontonummer ist ungültig
+astcc-balance-of-account-is: Der Kontostand Ihres Kontos beträgt...
+astcc-card-number-invalid: Die von Ihnen eingegebene Kartennummer ist ungültig.
+astcc-digit-account-number: stellige Kontonummer
+astcc-followed-by-the-hash-key: gefolgt von der Rautetaste.
+astcc-followed-by-the-pound-key: gefolgt von der Raute-Taste.
+astcc-login12pound: Bitte geben Sie Ihre 12-stellige Kontonummer ein, ohne Satzzeichen, und drücken Sie dann die Raute-Taste.
+astcc-please-enter-your: Bitte geben Sie Ihre... ein
+astcc-skipping-any-punctuation: Satzzeichen überspringen
+asterisk-friend: Asterisk ist dein Freund.
+at-any-time: jederzeit
+at-customers-request: auf Kundenwunsch
+at-following-number: unter der folgenden Nummer
+at-sign: Klammeraffe
+athletics: Sport
+atlanta: Atlanta
+atlantic: atlantisch
+attention-required: Ihre Aufmerksamkeit ist erforderlich
+attic: Dachboden
+auditing: Buchprüfung
+austin: Austin
+available-options: verfügbare Optionen
+available: Verfügbar
+avg-speed-answer: durchschnittliche Antwortgeschwindigkeit
+away-naughty-boy: Er ist derzeit von seinem Telefon weg, der ungezogene Junge.
+away-naughty-girl: Sie ist derzeit von ihrem Telefon weg, das ungezogene Mädchen.
+baby-sleeping-mode: Babyschlafmodus
+back: zurück
+backslash: Backslash
+bad: schlecht
+baltimore: Baltimore
+bar: Bar
+barn: Scheune
+barns: Scheunen
+barometer: Barometer
+barometric: barometrisch
+basement: Keller
+bathroom: Badezimmer
+bearing: Lagerung
+beaufort: Beaufort
+because-paranoid: weil wir paranoid sind
+bedroom: Schlafzimmer
+before-the-number: vor der Nummer
+believe-its-free: Können Sie glauben, dass dieses Telefonsystem kostenlos ist?
+billing-and-collections: Abrechnung und Inkasso
+billing: Abrechnung
+billionth: Milliardstel
+bits: Bits
+blue-eyed-polar-bear: Versuchen Sie, Ihre Wartezeit nicht an einen blauäugigen Eisbären zu denken.
+bookstore: Buchhandlung
+boston: Boston
+box: Schachtel
+brian: Brian
+bright: hell
+business-development: Geschäftsentwicklung
+busy-hangovers: Wir sind alle beschäftigt mit unseren Hangover.
+busy-pls-hold: Alle unsere Leitungen sind derzeit besetzt. Bitte halten Sie durch, jemand wird sich bald bei Ihnen melden.
+but: aber (nicht betont, wie "alle außer mir")
+by: durch
+bytes: Bytes
+cafeteria: Cafeteria
+california: Kalifornien
+call-forward: Weiterleitung
+call-fwd-cancelled: Rufumleitung abgebrochen
+call-fwd-parallel: Parallele Rufumleitung
+call-preempted: Dieser Anruf wurde abgebrochen.
+call-quality-menu: Bitte bewerten Sie die Qualität des gerade geführten Anrufs. Verwenden Sie die Tasten eins bis vier, um die Sprachqualität des Anrufs zu bewerten, wobei die Eins die beste Qualität darstellt und die Vier bedeutet, dass die andere Partei sehr schwer zu verstehen war. Drücken Sie die Fünf, wenn der Anruf vorzeitig getrennt wurde. Drücken Sie die Sechs, wenn der Anruf nie zustande kam. Drücken Sie die Sieben, wenn eine Richtung des Anrufs nicht gehört werden konnte. Drücken Sie die Acht, wenn es andere Schwierigkeiten gab.
+call-requres: Der von Ihnen getätigte Anruf erfordert...
+call-terminated: Anruf beendet
+call: Anruf
+callerid: Anruferkennung
+calls-taken-by: Anrufe werden entgegengenommen von
+calls-waiting-for-rep: Anrufe warten darauf, mit einem Vertreter zu sprechen.
+calls: Anrufe
+campground-office: Campingplatz Büro
+cannot-complete-network-error: Ihr Anruf kann aufgrund eines Netzwerkfehlers nicht getätigt werden.
+cannot-complete-otherend-error: Ihr Anruf kann aufgrund eines Fehlers beim Empfangs-Telefonunternehmen nicht abgeschlossen werden.
+cannot-complete-temp-error: Ihr Anruf kann aufgrund eines vorübergehenden Fehlers nicht abgeschlossen werden
+card-balance-is: Kartenbalance beträgt
+card-is-invalid: Karte ist ungültig
+card-number: Kartennummer
+carport: Carport
+carried-away-by-monkeys: Niemand ist im Moment verfügbar, um Ihren Anruf entgegenzunehmen. Sie wurden von Affen entführt.
+cause-code: Ursache-Code
+ceiling: Decke
+celsius: Celsius
+cent: Cent
+central: Zentral
+cents-per-minute: Cents pro Minute
+cents: Cents
+cents: cents
+ceo-office: Büro des CEO
+chance-of: Chance auf
+changing: wechselt
+channel-insecure-warn: Diese Sprachverbindung ist unsicher - besprechen Sie keine geheimen Informationen oder verwenden Sie Projekt-Codewörter.
+channel-secure: Diese Sprachverbindung ist sicher.
+channel: Kanal
+channel: Kanal
+charlotte: Charlotte
+chat-room: Chatroom
+chemistry: Chemie
+chicago: Chicago
+chris: Chris
+claims: Ansprüche
+clear: klar
+clearing: clearing
+cleveland: Cleveland
+clli: CLLI
+close-parenthesis: rechte Klammer schließen
+closet: Schrank
+clouds: Wolken
+cloudy: bewölkt
+coffee-pot: Kaffeekanne
+collections: Inkasso
+colorado-springs: Colorado Springs
+colorado: Colorado
+columbus: Columbus
+comma: Komma
+communications: Kommunikation
+company-dir-411: Um auf unser Firmenverzeichnis zuzugreifen, wählen Sie 411 oder wählen Sie Null, um eine Nachricht in unserem Posteingang zu hinterlassen.
+complaint: Beschwerde
+compliance: Konformität
+computer-friend1: Der Computer ist Ihr Freund.
+computer-friend2: Der Computer ist Ihr Freund.
+conditions: Bedingungen
+conf-1-to-list-users: Drücken Sie die 1, um Benutzer aufzulisten, die sich derzeit in der Konferenz befinden.
+conf-2-to-kick-nonadmin: 2, um alle Nicht-Administrator-Benutzer auszuschließen.
+conf-3-mute-or-unmute-nonadmin: 3, um alle Nicht-Administrator-Benutzer stummzuschalten oder zu entsperren.
+conf-4-to-record-conf: 4, um diese Konferenz aufzuzeichnen.
+conf-8-for-more-options: oder 8 für weitere Optionen
+conf-8-to-exit-return-to-conf: oder 8, um dieses Menü zu verlassen und zur Konferenz zurückzukehren.
+conf-banned: Sie wurden von dieser Konferenz ausgeschlossen.
+conf-hasentered: ist der Konferenz beigetreten
+conf-onlypersonleft: Sie sind jetzt die einzige Person, die in dieser Konferenz verbleibt.
+conf-peopleinconf: Personen in dieser Konferenz
+conf-sysop: Der Systemoperator
+conf-sysopreq: Systemoperator angefordert.
+conf-sysopreqcancelled: Systemoperator-Anforderung abgebrochen.
+conf-youareinconfnum: Sie befinden sich in Konferenznummer...
+conference-call: Telefonkonferenz
+conference-reservations: Konferenzreservierungen
+conference: Konferenz
+confirm-number-is: Ihre Bestätigungsnummer ist
+connected: Verbunden
+connecticut: Connecticut
+connecting: Verbinden
+connection-failed: Verbindung fehlgeschlagen.
+connection-timed-out: Zeitüberschreitung bei der Verbindung.
+continue-english-press: Um in Englisch fortzufahren, drücken Sie
+continue-in-english: um auf Englisch fortzufahren,...
+cool: cool
+cooling: Abkühlend
+copy-center: Kopiezentrum
+could-lose-a-few-pounds: Sie könnten ein paar Pfund verlieren
+counseling-services: Beratungsdienste
+count: Anzahl
+crash: absturz
+current-time-is: Die aktuelle Uhrzeit ist
+currently: derzeit
+customer-accounts: Kundenkonten
+customer-relations: Kundenbeziehungen
+customer-service: Kundenservice
+cyclone: Wirbelsturm
+dallas: Dallas
+date: Datum
+day: Tag
+daylight: Tageslicht
+days: Tage
+dc: DC
+deadbeat: Schmarotzer!
+decibel: Dezibel
+decibels: Dezibel
+deck: Deck
+decode: Dekodieren
+default-attendant: Standard-Betreuer
+degree: Grad
+degrees: Grad
+degrees: Grad
+delaware: Delaware
+den: Wohnzimmer
+denial-of-service: Denial of Service
+denver: Denver
+department-administrator: Abteilungsadministrator
+department: Abteilung
+deposit: Einzahlung
+design: Design
+detroit: Detroit
+development: Entwicklung
+dew-point: Taupunkt
+dial-here-often: Na, rufen Sie hier oft an?
+digit: Ziffer
+digits: Ziffern
+dim: abgedunkelt
+dining-room: Esszimmer
+directory-assistance: Telefonauskunft
+directory: Verzeichnis
+discon-or-out-of-service: Die von Ihnen gewählte Rufnummer ist nicht vergeben oder nicht mehr in Betrieb. Bitte überprüfen Sie die Nummer und versuchen Sie es erneut.
+disconnected: Getrennt
+disk: Disk
+distribution: Verteilung
+divided-by: geteilt durch
+dns: DNS
+doing-enum-lookup: E-Num-Lookup durchführen
+dont-know-who-sent: Ich weiß leider nicht, wer diese Nachricht gesendet hat.
+door: Tür
+doors: Türen
+doppler-radar: Doppler-Radar
+down: Runter
+down: runter
+driveway: Einfahrt
+driving-directions: Für eine Wegbeschreibung zu unserem Standort, drücken Sie
+dryer: Trockner
+duplex: Duplex
+duplication: Duplikation
+early: frühzeitig
+east: östlich
+easterly: östlich
+eastern: östlich
+echo-test: Sie hören nun Ihre eigene Stimme in einem Echo-Test.
+ed: Ed
+eighteenth: achtzehnte
+eighth: achte
+eightieth: achtzigste
+el-paso: El Paso
+eleventh: elfte
+email: E-Mail
+emergency: Notfall
+encode: Codieren
+engineering: Ingenieurwesen
+ent-target-attendant: Bitte geben Sie die Nummer der Durchwahl ein, die Sie für Ihren Zielbetreuer verwenden möchten.
+enter-a-time: Geben Sie eine Zeit mit 4 Ziffern ein. Beginnen Sie mit einer Null für Stunden unter zehn.
+enter-conf-call-number: Bitte geben Sie die Konferenz-Call-Nummer für die Konferenz ein, an der Sie teilnehmen möchten.
+enter-conf-pin-number: Bitte geben Sie die Konferenz Pin-Nummer ein.
+enter-ext-of-person: Geben Sie die Durchwahl der Person ein, die Sie erreichen möchten.
+enter-password: Bitte geben Sie Ihr Passwort gefolgt von der Raute-Taste ein.
+enter-phone-number10: Bitte geben Sie Ihre zehnstellige Telefonnummer ein, beginnend mit der Vorwahl.
+entering-conf-number: Sie betreten die Konferenznummer.
+enum-lookup-failed: E-Nummern-Suche fehlgeschlagen.
+enum-lookup-successful: E-Nummern-Suche erfolgreich.
+error-number: Fehler-Nummer.
+error-number: Fehler-Nummer.
+est-hold-time-is: Die geschätzte Wartezeit beträgt derzeit.
+euro: Euro.
+euro: Euro.
+european: Europäisch.
+euros: Euros.
+euros: Euros.
+evening: Abend.
+explanation: Erklärung.
+ext-or-zero: Wählen Sie die Durchwahl der Person, die Sie erreichen möchten, oder 0 für einen Operator.
+extensions: Durchwahlen.
+facilities: Einrichtungen.
+fahrenheit: Fahrenheit.
+falling: Fallen.
+falling: Fallen.
+fan: Lüfter.
+farad: Farad.
+farads: Farads.
+fast: Schnell.
+feet: Fuß.
+feet: Fuß.
+female: Weiblich.
+fifteenth: Fünfzehnter.
+fifth: Fünfter.
+fiftieth: Fünfzigster.
+finals: Abschlussprüfungen.
+finance: Finanzen.
+first-floor: Erster Stock.
+first-in-line: Ihr Anruf ist jetzt der Erste in der Warteschlange und wird vom ersten verfügbaren Vertreter beantwortet.
+first: Erstes.
+flagged-for-lea: Wurde von den Strafverfolgungsbehörden zur Auffindung gekennzeichnet.
+flooding: Überschwemmung.
+floor: Etage.
+floors: Etagen.
+florida: Florida.
+fog: Nebel.
+foggy: Nebelig.
+followed-by: Gefolgt von.
+food-service: Lebensmittel-Service.
+food-services: Lebensmittel-Services.
+foot: Fuß.
+for-a-daily-wakeup-call: Für einen täglichen Weckruf.
+for-a-list-of: Für eine Liste von.
+for-accounting: Für Buchhaltung.
+for-billing: Für Abrechnung.
+for-billing: Für Abrechnung.
+for-english-press: Drücken Sie für Englisch.
+for-extended-status-report: Für einen erweiterten Statusbericht.
+for-investor-relations: Für Investorenbeziehungen, drücken Sie.
+for-louie-louie: Für den Text von Louie Louie, drücken Sie.
+for-no-press: Für Nein, drücken Sie.
+for-qc-and-training-purposes: Zum Zweck der Qualitätskontrolle und Schulung.
+for-quality-purposes: Für Qualitätszwecke.
+for-quick-status-report: Für einen schnellen Statusbericht.
+for-sales: Für Verkauf.
+for-service: Für Service.
+for-tech-support: Für technischen Support.
+for-tech-support: Für technischen Support.
+for-the-first: Für die erste.
+for-the-weather: Für das Wetter.
+for-wakeup-call: Für einen Weckruf...
+for-wx-report: Für einen Wetterbericht.
+for-yes-press: Für Ja, drücken Sie.
+for: Für.
+fort-worth: Fort Worth.
+fortieth: Vierzigster.
+fountain: Springbrunnen.
+fourteenth: Vierzehnter.
+fourth: Vierter.
+foyer: Foyer.
+freeze: Einfrieren.
+freezing: Einfrierend.
+frequency: Frequenz.
+fresno: Fresno.
+from: Von (betont).
+front: Vorderseite.
+ftp: FTP.
+furnace: Ofen.
+gale: Sturm.
+gambling-drunk: Wir sind beim Glücksspiel und Betrinken.
+game-room: Spielzimmer.
+garage: Garage.
+georgia: Georgia.
+gigabits: Gigabits.
+gigabytes: Gigabytes.
+gigahertz: Gigahertz.
+giggle1: Kichern.
+gmt: Greenwich Mean Time.
+go-away1: Geh weg!
+go-away2: Geh weg (spielerisch).
+good: Gut.
+good-afternoon: Guten Nachmittag.
+good-evening: Guten Abend.
+good-morning: Guten Morgen.
+great-room: Großes Zimmer.
+greater-than: Größer als.
+groovy: Groovy.
+guest-room: Gästezimmer.
+gust: Bö.
+gusting-to: Böen bis zu.
+gusts: Böen.
+gusty: Windig.
+hail: Hagel.
+half: Hälfte.
+hall: Halle.
+hang-on-a-second-angry: Ich sagte WARTEN Sie eine Sekunde!
+hang-on-a-second: Warten Sie eine Sekunde...
+hangup-try-again: Bitte legen Sie auf und versuchen Sie Ihren Anruf erneut.
+has-arrived-at: Ist angekommen bei.
+has-been-changed-to: Wurde geändert zu.
+has-been-cleared: Wurde geklärt.
+has-been-disconnected: Wurde abgeschaltet.
+has-been-left: Wurde verlassen.
+has-been-set-to: Wurde auf eingestellt.
+has-been: Wurde.
+has-expired: Ist abgelaufen.
+has-issued-a: Hat eine ausgestellt.
+has-not-been-seen-for: Wurde seit nicht mehr gesehen für.
+has: Hat.
+hash: Raute.
+hash: Raute.
+hawaii: Hawaii.
+headed-towards: Auf dem Weg nach.
+heading: Kurs.
+health-center: Gesundheitszentrum.
+hear-odd-noise: Um ein seltsames Geräusch zu hören, drücken Sie.
+hear-toilet-flush: Um eine Toilettenspülung zu hören, drücken Sie.
+heat-index: Wärmeindex.
+heat-pump: Wärmepumpe.
+heat: Hitze.
+heating: Heizen.
+hectopascal: Hektopascal.
+helpdesk: Helpdesk.
+hertz: Hertz.
+high: Hoch.
+highway: Autobahn.
+hit: Hit.
+hold-or-dial-0: Bitte halten Sie weiterhin oder wählen Sie null, um eine Nachricht in unserem allgemeinen Postfach zu hinterlassen.
+home: Zuhause.
+honolulu: Honolulu.
+hot-tub: Whirlpool.
+house: Haus.
+housekeeping: Hauswirtschaft.
+houston: Houston.
+http: HTTP.
+human-resources: Personalwesen.
+humidity: Feuchtigkeit.
+humidity: Feuchtigkeit.
+hundredth: Hundertster.
+hurricane: Hurrikan.
+hz: Hertz (nochmal?).
+i-dont-understand: Ich verstehe nicht. (Emotionslos).
+i-dont-understand2: Ich... verstehe nicht. (Verwirrt?).
+i-dont-understand3: (Leichtes Lachen) Ich verstehe nicht.
+i-dont-understand4: Ich... verstehe... nicht. (William-Shatner-ähnlich).
+i-dont-understand5: Äh, ich verstehe nicht. (Schnell gesprochen).
+i-grow-bored: Ich finde dieses Gespräch langweilig.
+ice: Eis.
+icmp: ICMP.
+icy: Vereist.
+idaho: Idaho
+if-grtg-played-indefinately: wenn diese Ansage unendlich abgespielt werden soll
+if-grtg-should-expire-at: wenn diese Ansage auslaufen sollte um
+if-maint-contract-or-emergency: Wenn Sie einen Wartungsvertrag haben oder Notfallhilfe benötigen.
+if-rotary-phone: Wenn Sie ein Wählscheibentelefon haben, bleiben Sie bitte nach dem Menü in der Leitung.
+if-this-is-correct-press: Wenn dies korrekt ist, drücken Sie
+if-this-is-correct: Wenn dies korrekt ist...
+if-this-is-not-correct: Wenn dies nicht korrekt ist...
+if-u-know-ext-dial: Wenn Sie die Durchwahl der Person wissen, die Sie erreichen möchten, wählen Sie diese jetzt.
+if-unsuccessful-speak-to: Wenn ich nicht erfolgreich bin, sollten Sie mit ... sprechen.
+if-you-know-the: wenn Sie die
+if-you-need-help: Wenn Sie Hilfe benötigen
+if-youd-like-to-make-a-call: Wenn Sie einen Anruf tätigen möchten...
+illinois: Illinois
+im-sorry-unable-to-connect-to-eng: Es tut mir leid, aber ich konnte Sie nicht mit unserem Bereitschaftsingenieur verbinden.
+imap: IMAP
+in-service: Inbetriebnahme
+in-the-line: in der Leitung
+in-the-queue: in der Warteschlange
+in-the: im
+in-your-city: in Ihrer Stadt
+in-your-zip-code: in Ihrer Postleitzahl
+inbound: eingehend
+inch: Zoll
+inches: Zoll
+indiana: Indiana
+indianapolis: Indianapolis
+indicated: angegeben
+information-technology: Informationstechnologie
+information: Information
+infuriate-tech-staff: Um unser Technik-Team mit offensichtlichen Fragen zu verärgern, drücken Sie [X]
+initiated: Initiiert
+initiating: Initiieren
+inside-sales: Innendienst
+internal-audit: Interne Revision
+international-call: internationaler Anruf
+interstate: Interstate
+intruder: Eindringling
+invalid-date: ungültiges Datum
+investor-relations: Investor Relations
+iowa: Iowa
+is-at: ist in
+is-curntly-busy: ist derzeit beschäftigt
+is-curntly-unavail: ist derzeit nicht verfügbar
+is-currently: ist derzeit
+is-not-in-the: ist nicht im
+is-not-set: ist nicht festgelegt
+is-now-being-recorded: wird jetzt aufgezeichnet
+it-now: jetzt
+it-services: IT-Dienstleistungen
+jacksonville: Jacksonville
+janitorial: Reinigung
+jason: Jason
+jedi-extension-trick: Dies ist nicht die Durchwahl, die Sie suchen.
+john: John
+just-kidding-not-upset: Nur ein Scherz; ich wollte dich nicht aufregen.
+just-kidding-not-upset2: Nur ein Scherz; ich wollte dich nicht aufregen.
+kansas-city: Kansas City
+kansas: Kansas
+kelvin: Kelvin
+kentucky: Kentucky
+kilobits: Kilobits
+kilobytes: Kilobytes
+kilohertz: Kilohertz
+kilometer: Kilometer
+kilometer: Kilometer
+kilometers-per-hour: Kilometer pro Stunde
+kitchen: Küche
+knock-knock: Klopf klopf!
+knots: Knoten
+lamp: Lampe
+lamps: Lampen
+landscape: Landschaft
+language: Sprache
+large: groß
+las-vegas: Las Vegas
+last-error-was: Der letzte Fehler auf dieser Leitung war...
+last-num-to-call: Die letzte Nummer, die Ihre Leitung angerufen hat, war...
+late: spät
+later: später
+laundry: Wäsche
+lea-may-request-info: Strafverfolgungsbehörden können diese Informationen anfordern
+left-bracket: linke Klammer
+legal: Rechtlich
+len: Len
+less-than: kleiner als
+library: Bibliothek
+library: Bibliothek
+light: Licht
+lightning: Blitz
+lights: Lichter
+limit-simul-calls: Um die Internetbandbreite zu schützen und die Anrufqualität aufrechtzuerhalten, hat dieses System eine Begrenzung für die Anzahl der gleichzeitigen Anrufe.
+lines-complaining-customers: Alle Leitungen sind voller beschwerender Kunden.
+linux: Linux
+list: Liste
+living-room: Wohnzimmer
+load-average: Systemauslastung
+local-authorities: lokale Behörden
+locked: gesperrt
+locking: Sperrung
+login-fail: Fehler beim Einloggen
+long-beach: Long Beach
+los-angeles: Los Angeles
+loss-prevention: Bestandschutz
+loss: Verlust
+lots-o-monkeys: (Soundeffekte von vielen verärgerten Affen)
+louisiana: Louisiana
+low: niedrig
+lunch: Mittagessen
+lyrics-louie-louie: [
+        Louie Louie, ich muss gehen
+        Louie Louie, ich muss gehen
+        Hübsches kleines Mädchen wartet auf mich
+        Ich fange das Schiff an, über das Meer zu fahren
+        Ich segel das Schiff allein
+        Ich denke nie daran, nach Hause zu kommen
+        (Chor)
+        Drei Nächte und Tage segle ich übers Meer
+        Ich denke ständig an das Mädchen
+        Auf dem Schiff träume ich, dass sie da ist
+        Ich rieche die Rose in ihrem Haar
+        (Chor, Gitarrensolo)
+        Ich sehe Jamaika Mond oben
+        Es wird nicht lange dauern, mich von meiner Liebe zu sehen
+        Ich nehme sie in meine Arme und dann
+        Ich sage ihr, dass ich niemals wieder gehen werde]
+machine: Maschine
+made-it-up: Nur weil ich es mir ausgedacht habe, heißt das nicht, dass es nicht wahr ist.
+mail: Post
+mailbox: Briefkasten
+mailroom: Poststelle
+main-menu: Hauptmenü
+maine: Maine
+maintenance: Wartung
+male: Männlich
+management: Management
+manufacturing: Fertigung
+marketing: Marketing
+marryme: Willst du mich heiraten? Drücken Sie 1 für Ja oder 2 für Nein.
+maryland: Maryland
+massachusetts: Massachusetts
+master: Meister
+mathematics: Mathematik
+maximum: maximal
+megabits: Megabits
+megabytes: Megabytes
+megahertz: Megahertz
+memory: Speicher
+memphis: Memphis
+menu: Menü
+mesa: Mesa
+message-from: Nachricht von
+message-number: Nachrichtennummer
+meter: Meter
+meter: Meter
+meters: Meter
+meters: Meter
+miami: Miami
+michigan: Michigan
+midnight-tomorrow-night: Mitternacht morgen Nacht
+midnight-tonight: Mitternacht heute Nacht
+midnight: Mitternacht
+mike: Mike
+miles-per-hour: Meilen pro Stunde
+miles: Meilen
+millionth: Millionstel
+milwaukee: Milwaukee
+minimum: Minimal
+minneapolis: Minneapolis
+minnesota: Minnesota
+minute: Minute
+missed: Verpasst
+mississippi: Mississippi
+missouri: Missouri
+mist: Nebel
+mist: Nebel
+misty: Nebelig
+monitored: Überwacht
+montana: Montana
+month: Monat
+months: Monate
+moo1: Muh!
+moo2: Muh! (längeres Muhen)
+morning: Morgen
+moron: Idiot! (gesagt von einer wütenden Allison)
+mostly: Meistens
+motor-pool: Motor Pool
+mountain: Berg
+moving: Bewegend
+ms: Millisekunden
+nashville: Nashville
+national-weather-service: Nationaler Wetterdienst
+nautical-miles: Seemeilen
+nbdy-avail-to-take-call: Niemand ist verfügbar, um Ihren Anruf entgegenzunehmen.
+near: In der Nähe
+nebraska: Nebraska
+negative: Negativ
+network-operations-center: Netzwerk-Betriebszentrum
+network-operations: Netzwerk-Operationen
+nevada: Nevada
+new-accounts: Neue Konten
+new-hampshire: New Hampshire
+new-jersey: New Jersey
+new-mexico: Neues Mexiko
+new-orleans: New Orleans
+new-york: New York
+nineteenth: Neunzehnter
+ninetieth: Neunzigster
+ninth: Neunter
+no-112-1: Diese Leitung unterstützt keine Dienste für Eins-Eins-Zwei [schnell]
+no-112-2: Diese Leitung unterstützt keine Dienste für Eins-Eins-Zwei
+no-911-1: Diese Leitung unterstützt keine Dienste für Neun-Eins-Eins [schnell]
+no-911-2: Diese Leitung unterstützt keine Dienste für Neun-Eins-Eins
+no-empty-conferences: Derzeit gibt es keine leeren Konferenzen.
+no-info-about-number: Keine weiteren Informationen zu dieser Nummer verfügbar.
+no-longer-in-service: ist nicht mehr in Betrieb.
+no-reply-no-mailbox: Sie können nicht auf diese Nachricht antworten, da der Absender keine Mailbox hat.
+no-route-exists-to-dest: Es existiert keine Route zum angewählten Ziel.
+nobody-but-chickens: Hier gibt es nur uns Hühner!
+node: Knoten
+north-carolina: North Carolina
+north-dakota: North Dakota
+north: Norden
+northeast: Nordosten
+northerly: Nördlich
+northwest: Nordwestlich
+not-auth-pstn: Sie sind nicht autorisiert, die PSTN zu verwenden.
+not-enough-credit: Sie haben nicht genug Guthaben, um diese Nummer zu wählen.
+not-necessary-1: Es ist nicht notwendig, eine 1 zu wählen, um diese Nummer anzurufen.
+not-necessary-ac: Es ist nicht notwendig, die Vorwahl zu wählen, um diese Nummer anzurufen.
+not-necessary-dial-1-or-ac: Es ist nicht notwendig, eine 1 oder die Vorwahl zu wählen, um diese Nummer anzurufen.
+not-rqsted-wakeup: Sie haben keinen Weckruf angefordert.
+not-taking-your-call: Die Person unter der gewählten Nummer hat sich dazu entschieden, Anrufe von Ihrer Nummer derzeit nicht entgegenzunehmen.
+not-yet-assigned: wurde noch nicht zugewiesen.
+not-yet-connected: ist noch nicht verbunden.
+nothing-recorded: Es wurde nichts aufgezeichnet.
+now: Jetzt.
+num-not-in-db: Nummer nicht in Datenbank gefunden.
+num-outside-area: Die von Ihnen gewählte Nummer befindet sich außerhalb Ihres örtlichen Anrufgebiets. Bitte wählen Sie...
+oakland: Oakland
+octothorpe: Oktothorp
+off-duty: Außerhalb der Dienstzeit
+off: Aus
+office-code: Büronummer
+office-iguanas: Das Büro wurde von Leguanen übernommen.
+office: Büro
+office: Büro
+ohio: Ohio
+ohm: Ohm
+ohms: Ohm
+oklahoma-city: Oklahoma City
+oklahoma: Oaklahoma
+omaha: Omaha
+on-busy: Bei besetzt
+on-monthly-tel-stment: auf Ihrer monatlichen Telefonrechnung
+on-no-answer: Bei Nichtbeantwortung
+on: An.
+on: Auf
+one-small-step: Das ist ein kleiner Schritt für Asterisk, aber ein großer Sprung für die Menschheit.
+one-small-step2: Das ist ein kleiner Schritt für Asterisk, aber ein großer Sprung für die Menschheit.
+oops1: Oops
+oops2: Oops (lachend)
+oops3: Oops (langer o-Sound)
+open-parenthesis: öffnende Klammer
+open: Öffnen
+operations: Operationen
+option-is-invalid: Diese Option ist ungültig. Bitte versuchen Sie es erneut.
+option-not-implemented: Diese Option ist nicht implementiert.
+or-press: oder drücken Sie
+or: Oder
+or: Oder
+order-desk: Bestell-Schalter
+orders: Bestellungen
+oregon: Oregon
+other-options-exercise: Alle anderen Optionen sind eine Übung für den Anrufer.
+otherwise-press: Ansonsten drücken Sie
+otherwise: Ansonsten...
+our-business-hours-are: Unsere Geschäftszeiten sind
+outbound: Ausgehend
+outside-sales: Außendienst
+outside-transfer: Außenübertragung
+pacific: Pazifik
+packet: Paket
+panic: Panik
+partially: Teilweise
+partly: Teilweise
+pascal: Pascal
+pascal2: Pascal2
+patchy: Fleckig
+patio: Terrasse
+pence: Pence
+pennies: Pennies
+pennsylvania: Pennsylvania
+penny: Cent
+percent: Prozent
+percent: Prozent
+perhaps-we-are: Vielleicht sind wir
+perhaps-we-are2: Vielleicht sind wir
+period: Punkt
+personnel: Personal
+persons-in-path-of: Personen im unmittelbaren Weg des
+philadelphia: Philadelphia
+phoenix: Phönix
+phone: Telefon
+physics: Physik
+pin-invalid: Diese PIN ist für diese Konferenz ungültig.
+pin-number-accepted: PIN-Nummer angenommen
+ping: Ping
+pipe: Pfeife
+planning: Planung
+play-room: Spielzimmer
+play: Spielen
+please-answer-the-following: Bitte beantworten Sie folgende...
+please-contact-tech-supt: Bitte wenden Sie sich an den technischen Support
+please-enter-first-three-letters: Bitte geben Sie die ersten drei Buchstaben des Vor- oder Nachnamens Ihrer Kontaktperson ein.
+please-enter-the: Bitte geben Sie die
+please-enter-your: Bitte geben Sie Ihre
+please-hang-up-and-dial-operator: Bitte legen Sie auf und wählen Sie den Operator.
+please-hang-up-and-try-again: Bitte legen Sie auf und versuchen Sie es erneut.
+please-try-again-later: Bitte versuchen Sie es später erneut.
+please-try: Bitte versuchen Sie es
+please-wait-connect-oncall-eng: Bitte warten Sie, ich werde versuchen, Sie mit unserem Bereitschaftsingenieur zu verbinden.
+pls-ent-num-transfer: Bitte geben Sie die Nummer ein, um den Anruf weiterzuleiten.
+pls-enter-conf-password: Bitte geben Sie das Konferenz-Passwort ein.
+pls-enter-num-message-after-tone: Bitte geben Sie Ihre numerische Nachricht nach dem Signalton ein.
+pls-enter-vm-password: Bitte geben Sie Ihr Anrufbeantworter-Passwort ein.
+pls-entr-num-uwish2-call: Bitte geben Sie die Nummer ein, die Sie anrufen möchten.
+pls-hold-silent30: Bitte halten Sie (Stille für 30 Sekunden).
+pls-lv-msg-will-contact: Bitte hinterlassen Sie eine Nachricht nach dem Signalton, und ein Vertreter wird Sie so schnell wie möglich kontaktieren.
+pls-rcrd-name-at-tone: Bitte sprechen Sie nach dem Signalton Ihren Namen auf Band.
+pls-stay-on-line: Bitte bleiben Sie in der Leitung, und Ihr Anruf wird vom nächsten verfügbaren Vertreter beantwortet.
+pls-try-again: Bitte versuchen Sie es erneut!
+pls-try-area-code: Bitte versuchen Sie es mit der Vorwahl.
+pls-try-manually: Bitte versuchen Sie es manuell.
+pls-wait-connect-call: Bitte warten Sie, während ich Ihren Anruf verbinde.
+plugh: Plugh (Ploo-g)
+pm-announcement-number: Ankündigungsnummer
+pm-phrase-management: Satzverwaltung
+pm-prompt-number: Prompt-Nummer...
+pm-to-record-phrase: Um einen Satz aufzunehmen
+pm-to-review-phrase: Um einen Satz zu überprüfen
+point: Punkt
+point: Punkt
+pool: Pool
+pop: POP
+porch: Veranda
+port: Port
+portland: Portland
+portnumber: Portnummer
+position: Position
+post-entry-pound: Kundenummer ohne Interpunktionseingabe gefolgt von der Raute-Taste.
+pounds: Pfund
+power-failure: Stromausfall
+presales-support: Vorverkaufsunterstützung
+presidents-office: Büro des Präsidenten
+press-0: Drücken Sie 0
+press-1: Drücken Sie 1
+press-1: Drücken Sie 1
+press-2: Drücken Sie 2
+press-2: Drücken Sie 2
+press-3: Drücken Sie 3
+press-3: Drücken Sie 3
+press-4: Drücken Sie 4
+press-4: Drücken Sie 4
+press-5: Drücken Sie 5
+press-5: Drücken Sie 5
+press-6-to-eject: oder drücken Sie 6, um den letzten Benutzer auszuwerfen.
+press-6: Drücken Sie 6
+press-6: Drücken Sie 6
+press-7: Drücken Sie 7
+press-7: Drücken Sie 7
+press-8: Drücken Sie 8
+press-8: Drücken Sie 8
+press-9: Drücken Sie 9
+press-9: Drücken Sie 9
+press-button-again: Drücken Sie diese Taste erneut!
+press-enter: Drücken Sie Enter
+press-escape: Drücken Sie Escape
+press-hash: Drücken Sie die Raute-Taste
+press-hash: Drücken Sie die Raute-Taste
+press-pound-save-changes: Drücken Sie die Raute-Taste, um Ihre Änderungen zu speichern.
+press-pound-to-login-star-to-hangup: Drücken Sie die Raute-Taste, um sich bei der Mailbox anzumelden, oder * zum Auflegen.
+press-pound: Drücken Sie die Raute-Taste
+press-pound: Drücken Sie die Raute-Taste
+press-return: Drücken Sie Return
+press-star-cancel: Drücken Sie *, um abzubrechen.
+press-star: Drücken Sie die Stern-Taste
+press-star: Drücken Sie die Stern-Taste
+press-the-space-bar: Drücken Sie die Leertaste.
+press-tilde: Drücken Sie Tilde.
+press: Drücken Sie
+pressure: Druck
+pressure: Druck
+printing: Drucken
+privacy-blacklisted: Auf Blacklist gesetzt
+privacy-blocked: Blockiert
+privacy-if-error-leave-message-or-hangup: Wenn Sie der Meinung sind, dass dies ein Fehler oder ungerechtfertigt ist, hinterlassen Sie bitte eine Nachricht nach dem Signalton. Andernfalls legen Sie bitte jetzt auf.
+privacy-if-error: Wenn Sie der Meinung sind, dass dies ein Fehler ist...
+privacy-if-sales-call-contact-in-writing: Wenn dies ein unerwünschter Verkaufs- oder Marketinganruf ist, informieren Sie uns bitte schriftlich.
+privacy-last-caller-was: Der letzte Anrufer war...
+privacy-not: NICHT
+privacy-please-dial: Bitte wählen Sie...
+privacy-please-stay-on-line-to-be-connected: Bitte bleiben Sie in der Leitung, um verbunden zu werden.
+privacy-screening-unidentified-calls: Aufgrund der großen Anzahl unerwünschter Anrufe, die wir erhalten, filtern wir ab sofort alle eingehenden Anrufe, bei denen die Rufnummer nicht angezeigt oder unterdrückt wird.
+privacy-stop-calling-not-welcome: Bitte hören Sie auf anzurufen. Sie sind hier nicht willkommen.
+privacy-stop-calling-not-welcome2: Bitte hören Sie auf anzurufen. Sie sind hier nicht willkommen. (verärgert)
+privacy-this-number-is: Diese Nummer ist...
+privacy-to-blacklist-this-number: Um diese Nummer auf die Blacklist zu setzen...
+privacy-to-hear-our-contact-details: um unsere Kontaktinformationen zu hören
+privacy-to-whitelist-last-caller: Um den letzten Anrufer auf die Whitelist zu setzen...
+privacy-to-whitelist-this-number: Um diese Nummer auf die Whitelist zu setzen...
+privacy-whitelisted: Auf Whitelist gesetzt
+privacy-you-are-blacklisted: Sie wurden auf diesem System auf die Blacklist gesetzt.
+privacy-you-are-calling-from: Sie rufen an von...
+privacy-your-callerid-is: Ihre Anruferkennung ist...
+product: Produkt
+production: Produktion
+projects: Projekte
+protocol: Protokoll
+psi: PSI
+public-relations: Öffentlichkeitsarbeit
+purchasing: Einkauf
+purposes: Zweck
+q-dot-931: q.931
+q-dot-9thirty1: q.9-drei-eins
+quality-assurance: Qualitätssicherung
+quality-control: Qualitätskontrolle
+quarter: Viertel
+quickly: schnell
+quiet-mode: Ruhemodus
+quote: Angebot
+race: Rennen
+rain: Regen
+rainfall: Niederschlag
+rainy: regnerisch
+range: Reichweite
+reassigned-new-areacode: wurde in einem anderen Vorwahlbereich neu zugewiesen.
+rebates: Rabatte
+received: erhalten
+receiving: Empfangen
+reception: Empfang
+recorded: aufgezeichnet
+registrar: Registrar
+remote-already-in-this-mode-2: Fernbedienung ist bereits in diesem Modus.
+remote-already-in-this-mode: Die Fernbedienung ist bereits in diesem Modus.
+remote-base: Fernbedienungsbasisstation
+repair: Reparatur
+repeat-only: Nur wiederholen
+repeater: Repeater
+research-and-development: Forschung und Entwicklung
+research: Forschung
+reservations: Reservierungen
+reset: zurücksetzen
+restarting: Neustart
+rhode-island: Rhode Island
+right-bracket: Rechte Klammer
+rising: Steigend
+rising: Steigend
+risk-management: Risikomanagement
+roaming: Roaming
+roof: Dach
+room-service: Zimmerservice
+room: Zimmer
+rooms: Zimmer
+route-sip: Ihr Anruf wird über SIP geleitet.
+rqsted-wakeup-for: Sie haben einen Weckruf für ... angefordert.
+sacramento: Sacramento
+saint-louis: St. Louis
+sales-floor: Verkaufsfläche
+sales: Verkauf
+san-antonio: San Antonio
+san-diego: San Diego
+san-francisco: San Francisco
+san-jose: San Jose
+save-announce-press: Drücken Sie zum Speichern dieser Ankündigung 
+say-temp-msg-prs-pound: Sprechen Sie Ihre temporäre Nachricht und drücken Sie dann die Raute-Taste.
+says-thats-stupid: sagt, dass das wirklich eine dumme Sache ist.
+scattered: Verstreut
+sciences: Wissenschaft
+seattle: Seattle
+second-floor: Zweiter Stock
+second: Zweite
+secretary: Sekretärin
+secure: Sicher
+security-system: Sicherheitssystem
+security: Sicherheit
+self-destruct-in: Dieses System wird sich selbst zerstören ...
+self-destruct: Selbstzerstörung
+server: Server
+service-not-implemented: Dieser Dienst ist nicht implementiert.
+service: Service
+set: Setzen
+seventeenth: siebzehnter
+seventh: siebte
+seventieth: siebzigste
+severe: Schwerwiegend
+shall-i-try-again: Soll ich es nochmal versuchen?
+shiny-brass-lamp: Es gibt eine glänzende Messinglampe in der Nähe.
+shipping: Versand
+shop: Geschäft
+show-office: Büro zeigen
+side: Seite
+sighted: gesichtet
+simplex: Simplex
+sixteenth: sechzehn
+sixth: Sechste
+sixtieth: sechzigste
+sleet: Schneeregen
+sleeting: Nieselregen
+slow: langsam
+slowly: langsam
+snow: Schnee
+snowing: Schneien
+snowy: Schneebedeckt
+software: Software
+solar: Solar
+someone-you-trust1: Jemand, dem Sie vertrauen, ist einer von uns.
+someone-you-trust2: Jemand, dem Sie vertrauen, ist einer von uns.
+someone-you-trust3: Jemand, dem Sie vertrauen, ist einer von uns.
+sorry-cant-let-you-do-that: Es tut mir leid, ich kann es nicht zulassen.
+sorry-cant-let-you-do-that2: Es tut mir leid, ich kann es nicht zulassen.
+sorry-cant-let-you-do-that3: Es tut mir leid, ich kann es nicht zulassen.
+sorry-mailbox-full: Entschuldigung, aber der Benutzer Postfach kann keine weiteren Nachrichten empfangen.
+sorry2: Es tut uns leid, aber wir können Ihren Anruf derzeit nicht entgegennehmen.
+south-carolina: South Carolina
+south-dakota: South Dakota
+south: Süden
+southeast: Südosten
+southerly: südlich
+southwest: Südwesten
+spam: Vielen Dank, dass Sie Special Price Analysis and Marketing angerufen haben. Für günstiges generisches Vallium, Xanex oder Viagra drücken Sie die 1. Für Gucci- und Rolex-Repliken drücken Sie bitte die 2. Um Ihren Penis oder Ihre Brüste zu vergrößern, drücken Sie bitte die 3. Um mit dem Finanzminister von Nigera über ein 50-Millionen-Dollar-Konto zu sprechen, drücken Sie die 4.
+spam2: Spam
+speak-louder-into-phone: Bitte sprechen Sie lauter oder sprechen Sie direkt in das Telefon, um eine klare Aufnahme zu gewährleisten.
+speak-louder: Bitte sprechen Sie lauter, um eine klare Aufnahme zu gewährleisten.
+speak-to-the-operator: Sprechen Sie mit dem Operator.
+speed: Geschwindigkeit
+splat: Platsch
+sprinklers: Sprinkler
+ssh: SSH
+staff: Mitarbeiter
+staffing: Personalbesetzung
+standard: Standard
+star-for-menu-again: Drücken Sie die Stern-Taste, um dieses Menü erneut zu hören.
+starting-with-either: beginnend mit entweder
+station: Station
+status: Status
+steady: Stetig
+step-in-stream: Sie treten in den Strom, aber das Wasser ist weitergezogen.
+sterling: Sterling
+still: ruhig
+store-accounting: Ladenbuchhaltung
+storm: Sturm
+stove: Herd
+sump-pump: Sumpfpumpe
+sun-room: Sonnenzimmer
+sun: Sonne
+sunny: sonnig
+support: Support
+swap: Austausch
+system-crashed: Das System ist abgestürzt.
+system-status-msg: Bitte hören Sie sich die folgende Statusmeldung des Systems sorgfältig an.
+system: System
+system: System
+systems: Systeme
+systems: Systeme
+talking-to-myself: Spreche ich mit mir selbst?
+target-attendant: Zielansprechpartner
+tcp: TCP
+technical-support: Technischer Support
+telephone-in-your-pocket: Oooo! Ist das ein Telefon in deiner Tasche oder freust du dich nur, mich zu sehen?
+telephone-in-your-pocket2: Oooo! Ist das ein Telefon in deiner Tasche oder freust du dich nur, mich zu sehen?
+telesales: Telesales
+teletubbie-murder: wurde brutal von den Teletubbies ermordet und verstümmelt.
+telnet: Telnet
+temp-disconnected: wurde vorübergehend getrennt
+temperature: Temperatur
+temperature: Temperatur
+tennessee: Tennessee
+tenth: zehnte
+terabits: Terabits
+terabytes: Terabytes
+terminated: beendet
+terminating: beendend
+test-tones-follow: Testtöne folgen.
+texas: Texas
+thank-you-cooperation: Vielen Dank für Ihre Zusammenarbeit.
+thank-you-for-calling: Danke für den Anruf.
+thanks-for-calling-today: Danke, dass Sie heute angerufen haben.
+thanks-for-using: Danke für die Benutzung von
+that-is-not-rec-phn-num: Das ist keine bekannte Telefonnummer
+that-number: diese Nummer
+that-tickles: Oooh, das kitzelt!
+that-you-require: dass Sie benötigen
+the-mailbox: Das Postfach
+the-monkeys-twice: Die Affen! DIE AFFEN!
+the-new-number-is: Die neue Nummer ist
+the-next: das Nächste
+the-num-i-have-is: die Nummer, die ich habe, ist
+the-number-u-dialed: Die Nummer, die Sie gewählt haben
+the-party-you-are-calling: Die Person, die Sie anrufen
+the-weather-at: das Wetter bei
+then-press-pound: dann drücken Sie die Raute-Taste.
+there-are: Es gibt ...
+there-is-no-customer-support: Es gibt keinen Kundensupport.
+thermostat: Thermostat
+these-are-currently: diese sind derzeit
+third: Dritte
+thirteenth: dreizehnte
+thirtieth: dreißigste
+this-call-may-be-monitored-or-recorded: Dieser Anruf kann überwacht oder aufgezeichnet werden
+this-call-may-be: Dieser Anruf kann sein
+this-call-will-cost: Dieser Anruf wird kosten...
+this-call-will-end-in: Dieser Anruf endet in
+this-is-the-voice-mail-system: Das ist das Voicemail-System
+this-is-yr-wakeup-call: Das ist Ihr Weckanruf.
+this: dies
+thnk-u-for-patience: Vielen Dank für Ihre Geduld
+thousandth: tausendste
+through: Durch
+thunderstorm: Gewitter
+tide: Flut
+time: Zeit
+times: mal
+to-accept-recording: Um diese Aufnahme zu akzeptieren
+to-be-called-back: Um zurückgerufen zu werden, wenn ein Vertreter verfügbar ist, drücken Sie--
+to-blklist-last-caller: Um den letzten Anrufer zu blockieren, drücken Sie...
+to-blklist-last-num: Um die letzte Nummer zu blockieren, drücken Sie...
+to-call-num-press: Um diese Nummer zu wählen, drücken Sie...
+to-call-prson-w-sent-msg: Um die Person zu erreichen, die diese Nachricht gesendet hat
+to-cancel-this-msg: Um diese Nachricht zu stornieren
+to-cancel-wakeup: Um einen Weckanruf zu stornieren...
+to-change-exp-date: Um das Ablaufdatum zu ändern
+to-change-your-pin-number: Um Ihre PIN-Nummer zu ändern
+to-collect-voicemail: Um eine Voicemail abzurufen
+to-compose-a-message: Um eine Nachricht zu verfassen
+to-confirm-wakeup: Um einen Weckanruf zu bestätigen...
+to-control-environ-sys: Um Umweltsysteme zu steuern
+to-control-lights-appl: Um Lichter und Geräte zu steuern
+to-dial-by-name-press: Um nach Namen zu wählen, drücken Sie
+to-dial-by-name: Um nach Namen zu wählen...
+to-enter-a-diff-number: Um eine andere Nummer einzugeben
+to-enter-a-number: Um eine Nummer einzugeben
+to-erase-yr-temp-grtg: Um Ihre temporäre Grußaufnahme zu löschen
+to-hang-up-2: Auflegen
+to-hang-up: Auflegen (langsamer)
+to-hear-callerid: Um die Anrufer-ID des letzten Anrufs zu hören
+to-hear-menu-again: Um dieses Menü erneut zu hören
+to-hear-msg-again: Um diese Nachricht erneut zu hören.
+to-hear-msg-envelope: Um den Nachrichtenumschlag zu hören
+to-hear-net-status: Um den aktuellen Netzwerkstatus zu hören...
+to-hear-weather-status: Um den Wetterstatus zu hören...
+to-hear-your-account-balance: Um Ihren Kontostand zu hören
+to-join-a-meeting: Um an einem Meeting teilzunehmen
+to-leave-message-for: Um eine Nachricht zu hinterlassen für
+to-log-in-to-voice-mail: Um sich in die Voicemail einzuloggen
+to-place-outgoing-call: Um einen ausgehenden Anruf zu tätigen
+to-reach-first-rep: Um den ersten verfügbaren Vertreter zu erreichen
+to-reach-operator: Um den Operator zu erreichen
+to-reach-operator: Um einen Operator zu erreichen
+to-rec-yr-temp-grtg: Um Ihre temporäre Grußaufnahme aufzunehmen
+to-record-call: Um Anruf aufzuzeichnen
+to-redial-the-last-number-you-called: Um die zuletzt gewählte Nummer erneut zu wählen
+to-report-emergency: Um einen Notfall zu melden...
+to-report-system-network-down: Um ein System oder Netzwerk auszufallen zu melden
+to-rerecord-announce: Um diese Ansage erneut aufzunehmen, drücken Sie
+to-rerecord-yr-message: Um Ihre Nachricht erneut aufzunehmen
+to-rmv-num-blklist: Um eine Nummer aus der Blockliste zu entfernen, drücken Sie...
+to-rqst-wakeup-call: Um einen Weckanruf anzufordern...
+to-send-a-reply: Um eine Antwort zu senden
+to-snooze-for: Um zu schlummern für...
+to-use-def-attendant: Um den Standardbediener zu verwenden, drücken Sie die Raute
+tomorrow-night: Morgen Nacht
+tones-that-follow-are-for-the-deaf: Die Töne, die folgen, sind für Gehörlose.
+tonight: Heute Nacht
+too-low: zu niedrig
+tornado: Tornado
+touchtone1: Wenn Sie von einem Wählscheibentelefon anrufen, legen Sie auf, gehen Sie zu einem Telefonladen und kaufen Sie eine dieser neuen Erfindungen namens Touch Tone-Telefone.
+touchtone2: Und wenn Sie von einem Wählscheibentelefon anrufen, hallo, es gibt diese Sache namens Touch Tone, Sweetie, die Sie vielleicht ausprobieren möchten.
+touchtone3: Wenn Sie von einem Wählscheibentelefon anrufen, legen Sie auf, gehen Sie zu einem Telefonladen und kaufen Sie eine dieser 21. Jahrhunderte genannten Touch Tone-Telefone.
+towards: Zum
+tower: Turm
+trading-desk: Trading Desk
+traffic: Verkehr
+training: Handel
+transportation: Transport
+travel: Reisen
+treasury: Treasury
+tucson: Tuscon
+tulsa: Tulsa
+turn-off-recording: Um die Anrufaufzeichnung auszuschalten
+turning-to: zur Wende
+twelveth: zwölft
+twentieth: zwanzigste
+twisty-maze: Sie befinden sich in einem verdrehten Labyrinth aus kleinen, verzwackten Menüs, die alle gleich aussehen.
+typhoon: Taifun
+udp: UDP
+uh-oh1: Oh oh!  [in einer niedlichen, Teletubbie-ähnlichen Stimme] 
+uh-oh2: Oh oh!  [in einer niedlichen, Teletubbie-ähnlichen Stimme] 
+uk: Vereinigtes Königreich
+unavailable: Nicht verfügbar
+unconditional: unbedingt
+units: Einheiten
+unix: Unix
+unlocked: entsperrt
+unlocking: Entsperren
+up: nach oben
+up: aufwärts
+uptime: Betriebszeit
+user: Benutzer
+users: Benutzer
+utah: Utah
+variable: variabel
+vermont: Vermont
+virginia-beach: Virginia Beach
+virginia: Virgina
+visibility: Sichtbarkeit
+visit-asterisk-website: Besuchen Sie die Asterisk-Website unter w w w Punkt Asterisk Punkt org
+voice-mail-system: Voicemail-System
+volt: Volt
+volts: Volt
+wait-moment: Bitte warten Sie einen Moment.
+wait-offensive-sounds: Bitte warten Sie einen Moment, während ich auf unsere gigantische Bibliothek beleidigender Geräusche zugreife!
+wakeup-call-cancelled: Ihr Weckanruf wurde abgesagt.
+wakeup-call: Weckruf
+wakeup-daily: Täglicher Weckruf
+wakeup-for-daily: Für tägliche Weckanrufe ...
+wakeup-for-one-time: Für einen einmaligen Weckanruf
+wakeup-onetime: Einmaliger Weckanruf
+walks-into-bar-mail: Ein Mann geht in eine Bar, setzt sich hin und ... Willkommen bei Comedian-Mail!
+warning: Warnung
+was-last-seen: wurde zuletzt gesehen
+was: war
+washing-machine: Waschmaschine
+washington-dc: Washington, DC
+washington: Washington
+watch: Uhr
+water-heater: Wasserkocher
+watt: Watt
+watts: Watt
+we-apologize: Wir entschuldigen uns
+we-dont-have-tech-support: Wir haben keinen technischen Support.
+weasels-eaten-phonesys: Wiesel haben unser Telefonsystem gefressen.
+weather-station: Wetterstation
+weather: Wetter
+web: Web
+weeks: Wochen
+welcome: Willkommen
+well-pump: Brunnenpumpe
+were-sorry: Es tut uns leid...
+west-virginia: West Virginia
+west: Westen
+westerly: westerly
+what-are-you-wearing: Was hast du an?
+what-time-it-is: Hast du eine Ahnung, wie spät es ist?
+what-time-it-is2: Hast du eine Ahnung, wie spät es ist?
+when-dialing-this-number: Wenn Sie diese Nummer wählen...
+who-would-you-like-to-call: Wen möchten Sie anrufen?
+why-no-answer-mystery: Ihr Anruf ist uns wichtig, aber warum wir ihn noch nicht beantwortet haben, ist uns selbst ein Rätsel.
+wichita: Wichita
+will-apply: wird angewendet
+will-expire: wird ablaufen
+will-not-expire: wird nicht ablaufen
+will-reflect-charge-of: wird eine Gebühr von widerspiegeln
+wind-chill: Windkälte
+wind: Wind
+window: Fenster
+windows: Windows
+windows: Fenster
+winds: Wind
+windy: windig
+wisconsin: Wisconsin
+wish-to-continue: Möchten Sie fortfahren?
+within: innerhalb
+work: Arbeit
+wrong-try-again-smarty: Falsch, falsch, falsch. Versuche es noch einmal, Schlauberger.
+wtng-to-spk-w-rep: warten, um mit einem Vertreter zu sprechen
+www-switchboard-com: www.switchboard.com
+wyoming: Wyoming
+xmas-lights: Weihnachtslichter
+xmas-tree: Weihnachtsbaum
+yard: Hof
+yeah: Ja!
+year: Jahr
+years: Jahre
+yes-dear: Ja, Schatz. (verärgert)
+yes-dear2: Ja, Schatz. (verspielt)
+you-are-caller-num: Sie sind Anrufer Nummer
+you-are-curr-call-num: Sie sind derzeit Anrufer Nummer
+you-can-press: Sie können drücken
+you-dialed-wrong-number: Sie haben die falsche Nummer gewählt.
+you-have-dialed: Sie haben gewählt:
+you-have-reached-a-test-number: Sie haben eine Testnummer erreicht.
+you-have-these-options: Sie haben folgende Optionen.
+you-must-first-dial: Sie müssen zuerst wählen
+you-seem-impatient: Sie scheinen ungeduldig
+you-sound-cute: So, _du_ klingst süß.
+you-wish-to-join: möchten Sie beitreten
+your-account: Ihr Konto
+your-msg-has-been-saved: Ihre Nachricht wurde gespeichert
+your-msg-is-too-short: Ihre Nachricht ist zu kurz
+your-temp-greeting: Ihre vorübergehende Begrüßung
+zip-code: Postleitzahl
+alert: Alarm
+cc-amex: American Express
+cc-discover: Discover
+cc-mastercard: Mastercard
+cc-visa: Visa
+invalid-featurecode: Es tut uns leid. Dieser Funktionscode wird nicht unterstützt. Bitte versuchen Sie es erneut.
+pls-hold-process-tx: Bitte warten Sie, während wir Ihre Transaktion verarbeiten.
+privacy-restricted-by-req: ... durch Kundenauftrag eingeschränkt.
+tt-codezone_MIXDOWN: Diese Autobahn führt zur dunklen Spitze der Realität: Sie sind auf einer Durchgangsroute zum Land der Unterschiede, des Bizarren, des Unerklärlichen... Gehen Sie so weit wie Sie wollen auf dieser Straße. Ihre Grenzen liegen nur im Geist selbst. Meine Damen und Herren, Sie betreten die wundersame Dimension der Phantasie. Nächster Halt....Die Codezone.
+tt-codezone: Diese Autobahn führt zur dunklen Spitze der Realität: Sie sind auf einer Durchgangsroute zum Land der Unterschiede, des Bizarren, des Unerklärlichen... Gehen Sie so weit wie Sie wollen auf dieser Straße. Ihre Grenzen liegen nur im Geist selbst. Meine Damen und Herren, Sie betreten die wundersame Dimension der Phantasie. Nächster Halt....Die Codezone.
+tt-hangup: Drücken Sie 1, um den Anruf zu beenden, oder eine andere Taste, um aufzulegen.
+tt-monty-knights: Gehen Sie und kochen Sie Ihren Hintern, Sie lächerliche englische Ritter. Ich furze in Ihre allgemeine Richtung. Deine Mutter war ein Hamster und dein Vater roch nach Holunder. Geh jetzt weg oder ich werde dich ein zweites Mal ärgern.
+tx-has-been-approved: Ihre Transaktion wurde genehmigt.
+your-notifications: ... Ihre Benachrichtigungen.
+your-req-notification: ... Ihre angeforderte Benachrichtigung.
+account_number: Ihre Kontonummer
+after_tone: Nach dem Signalton
+andnowstandby: Bitte warten Sie zehn Minuten lang auf etwas, das Sie nie zurückbekommen werden.
+at_tone: Am Signalton
+awkward: Peinlich (gesungen)
+binary: Vielen Dank für Ihren Anruf. Wir können Ihren Anruf derzeit nicht entgegennehmen, daher haben wir Ihren Anruf an eine Babbage-Differenzmaschine weitergeleitet, um sie zu parsen und zu transkribieren. Um Fehler zu vermeiden, hinterlassen Sie bitte eine Nachricht in Wörtern mit einer oder weniger Silben und vermeiden Sie Satzabbrüche. Sie können auch eine Nachricht in binärer Form hinterlassen, indem Sie die Wörter eins und null oder o verwenden. Danke.
+bombsquad: Vielen Dank für Ihren Anruf. Ihr anonymer Tipp wurde aufgenommen und das Bombenentschärfungsteam wurde zu Ihrem Standort entsandt. Es ist keine weitere Maßnahme erforderlich, es sei denn, Sie benötigen eine saubere Shorts. Da können wir Ihnen nicht helfen.
+challenge_try_again: Das ist okay. Ich mag eine Herausforderung. Lass uns es noch einmal versuchen.
+closed: geschlossen
+comedyclub: Vielen Dank für Ihren Anruf zur Anfrage unseres Comedy-Clubs. Es steht zur Verfügung, um die weitere Verbreitung von schlechten Wortspielen zu verhindern. Bitte hinterlassen Sie Kontaktinformationen nach dem Signalton.
+countdown: Vielen Dank für Ihren Anruf. Die Selbstzerstörung wurde gestartet und erfolgt in dreißig Sekunden. Wenn Sie glauben, dass Sie dieses Zielziel irrtümlicherweise erreicht haben, geben Sie jetzt den zwölfstelligen Abbruchcode ein oder suchen Sie sofort Schutz.
+crashing_conf: Crasht du diese Konferenz?
+current_account_balance: Ihr aktuelles Kontoguthaben lautet
+donotcall1: Diese Nummer ist auf der nicht anrufen Liste aufgeführt. Ihre Nummer wurde erfasst. Wenn Sie glauben, dass Sie diese Nummer aus Versehen erreicht haben, können Sie jetzt eine Nachricht aufzeichnen, indem Sie die Eins drücken. Sie können auch Ihre eigene Heimnummer hinterlassen, damit wir Ihre Heimanrufzeit festlegen können.
+donotcall2: Bitte fügen Sie diese Nummer Ihrer nicht anrufen Liste hinzu.
+eletelephony: "Es gab einmal einen Elefanten,
+Der versuchte, das Telephanten zu benutzen.
+Nein! nein! Ich meine einen Elefanten
+Der versuchte, das Telefon zu benutzen.
+(Mein Gott! Ich bin mir nicht sicher,
+Dass ich es jetzt richtig habe.)
+Wie auch immer, er hat seinen Rüssel bekommen
+In den Telefunk verheddert;
+Je mehr er versuchte, es zu befreien,
+Desto lauter summte das Telephee
+(Ich fürchte, ich sollte das Lied fallen lassen,
+Von Elephop und Telephong!)
+
+[Eine Eletelephony-Gedicht von Laura Elizabeth Richards]"
+enter_account: Bitte geben Sie Ihre Kontonummer ein.
+error: Fehler
+feeling_lucky_punk: "Du musst dir eine Frage stellen: 'Fühlst du dich glücklich?'... Nun, tust du das, Punk?"
+followed_hash: ...gefolgt von der Raute-Taste.
+followed_pound: ...gefolgt von der Pound-Taste.
+forget_about_it: Fuggetaboutit. {gesprochen im Stil von Tony Soprano}
+get_bleep_outta: Das ist großartig! Jetzt hau ab!
+get_information_first: Kann ich zuerst etwas Information von Ihnen bekommen?
+get_information: Ich muss nur ein paar Informationen von Ihnen bekommen.
+get-in-line-sales-guy: Danke, dass Sie anrufen. Wir beantworten Anrufe nur nach Terminvereinbarung. Unser erster verfügbarer Termin ist etwa 90 Tage ab heute. Um einen Termin zu vereinbaren, drücken Sie bitte 1 und hinterlassen Sie das Datum und die Uhrzeit Ihres gewünschten Termins sowie eine Heimtelefonnummer. Wir werden Sie nächstes Wochenende früh kontaktieren, wenn es verfügbar ist. Um diese Nachricht zu wiederholen, drücken Sie bitte 2.
+grammar: Vielen Dank für Ihren Anruf. Bitte hinterlassen Sie eine Nachricht nach dem Signalton. Um Telefon-Spam und Phishing zu eliminieren, wird Ihre Nachricht von einem Anglistik-Studenten (oder einer Majorin) überprüft und bei grammatikalischen, Zeit- oder strukturellen Fehlern verworfen, bitte deutlich und verständlich sprechen, um Probleme im Zusammenhang mit Homonymen zu vermeiden. Vielen Dank und haben Sie einen schönen Tag.
+goodbye_for_the_best: Auf Wiedersehen. Nein, im Ernst, es ist wahrscheinlich das Beste. Auf Wiedersehen.
+goodbye_love: Auf Wiedersehen. Vielen Dank, dass Sie die Asterisk Open-Source-PBX ausprobiert haben. Sie lieben es, oder?
+got_kidding: OMG - Du musst mich wohl verarschen.
+hal_goodbye: Dieser Anruf hat keinen Zweck mehr. Auf Wiedersehen.
+happy_saved: Ich freue mich, Ihnen mitteilen zu können, dass Ihre Nachricht gespeichert wurde.
+is: ist
+keywords_cross_fingers: Bitte geben Sie ein oder mehrere Keywords getrennt durch Stern ein, kreuzen Sie die Finger und drücken Sie dann die Raute-Taste.
+like_to_tell_valid_ext: Ich würde Ihnen gerne sagen, dass das eine gültige Durchwahl ist, aber das kann ich nicht. Versuchen Sie es noch einmal.
+martini: Ich kann keine Verbindung zum Digium Demonstration Asterisk-Server herstellen. Glauben Sie mir, ich bin auch frustriert. Sie finden möglicherweise hilfreiche Debugging-Informationen auf der Asterisk-Konsole. Ich gehe einen Martini trinken.
+messages_curious: Drücken Sie die 1, um Ihre Nachrichten zu überprüfen. Komm schon, du weißt, dass du neugierig bist. Wenn Sie damit fertig sind, können Sie das Voicemail jederzeit durch Drücken der Raute-Taste beenden.
+mind_repeating: Könnten Sie das bitte wiederholen?
+minions-not-answering-leave-message: Es tut mir leid, meine Untergebenen konnten Ihren Anruf nicht verbinden, bitte hinterlassen Sie eine Nachricht.
+mode: Modus
+night: Nacht
+no_invite_to_conf: Diese PIN-Nummer ist für diese Konferenz ungültig. Besteht die Möglichkeit, dass Sie nicht eingeladen wurden?
+no_longer_conf: ...ist nicht mehr in der Konferenz.
+no_problem_help: Kein Problem. Ich kann Ihnen helfen.
+no_worries_try_again: Keine Sorge. Lass es uns noch einmal versuchen.
+none_of_my_business1: ...ist nicht verfügbar. Ich habe keine Ahnung, was sie tun. Geht mich nichts an!
+none_of_my_business2: Momentan ist niemand verfügbar, um Ihren Anruf entgegenzunehmen. Ich habe keine Ahnung, was sie tun. Geht mich nichts an!
+not_me: Es liegt nicht an mir, es liegt an Ihnen. Lassen Sie uns einen Agenten finden.
+not_pass: Du sollst nicht durchkommen!
+not_you: Es liegt nicht an Ihnen, es liegt an mir. Lassen Sie uns einen Agenten finden.
+not_siri: Ich glaube, Sie haben mich mit Siri verwechselt.
+off: aus
+OfficeSpace: Hallo, nur einen Moment bitte.
+ogm_home: Es ist niemand da, um Ihren Anruf entgegenzunehmen. Bitte hinterlassen Sie eine Nachricht und jemand wird Ihren Anruf zurückgeben.
+on: an
+open: offen
+passwords_not_match: Die von Ihnen eingegebenen Passwörter stimmen nicht überein. Ich weiß nicht, was ich Ihnen sagen soll. Bitte versuchen Sie es erneut?
+pin_number: Ihre PIN-Nummer.
+please-hold-minion-connect: Bitte bleiben Sie in der Leitung, während meine Untergebenen versuchen, Ihren Anruf zu verbinden.
+please-hold-while-minion: Bitte halten Sie die Leitung, während ich nach einem Untergebenen suche, der Ihren Anruf beantworten kann.
+press_pound_hash_key: Drücken Sie die Raute- oder die Hashtag-Taste.
+press_pound_hash: Drücken Sie die Raute- oder die Hashtag-Taste.
+press-or-say-0: Drücken Sie die Null oder sagen Sie Null.
+press-or-say-1: Drücken Sie die Eins oder sagen Sie Eins.
+press-or-say-2: Drücken Sie die Zwei oder sagen Sie Zwei.
+press-or-say-3: Drücken Sie die Drei oder sagen Sie Drei.
+press-or-say-4: Drücken Sie die Vier oder sagen Sie Vier.
+press-or-say-5: Drücken Sie die Fünf oder sagen Sie Fünf.
+press-or-say-6: Drücken Sie die Sechs oder sagen Sie Sechs.
+press-or-say-7: Drücken Sie die Sieben oder sagen Sie Sieben.
+press-or-say-8: Drücken Sie die Acht oder sagen Sie Acht.
+press-or-say-9: Drücken Sie die Neun oder sagen Sie Neun.
+prime_number: Geben Sie zur Fortsetzung eine beliebige 7-stellige Primzahl ein und drücken Sie dann die Raute-Taste.
+prompt-not-found: Die Prompt-Datei wurde nicht gefunden.
+quality_control: Aus Qualitätskontrollgründen wird dieser Anruf überprüft. Bitte sprechen Sie klar und verständlich, um Probleme im Zusammenhang mit Homonymen zu vermeiden.
+Randulo-allison: Allsion
+regret_not_saved: "Ich bedauere Ihnen mitteilen zu müssen: Ihre Nachricht wurde nicht gespeichert."
+repeat_pin: Ich werde Ihre PIN-Nummer wiederholen. Ich glaube, Sie haben gesagt
+said_hold_on: Ich sagte, warten Sie!
+saleshell: Bitte hinterlassen Sie eine Nachricht nach dem Signalton, wenn dies ein Verkaufsgespräch ist, drücken Sie bitte 5.
+sendhelp: Vielen Dank für Ihren Anruf. Ihr Standort wurde identifiziert und ein SWAT-Team wurde zu Ihrem Standort geschickt. Es ist keine weitere Aktion Ihrerseits erforderlich. Sie werden bald gerettet.
+SIP_Test_Failure: Mach weiter, Trottel!
+SIP_Test_Success: Ihr Test war erfolgreich und das SIP-Gerät oder die Standardkonformität, an der Sie arbeiten, funktioniert. Bitte genießen Sie Ihre Arbeit, bis etwas anderes kaputt geht.
+sorry_caller_number: "Es tut mir leid, Ihnen mitteilen zu müssen, dass Sie derzeit Anrufer-Nummer sind: "
+sorry_didnt_get: Es tut mir leid. Das habe ich nicht verstanden.
+sorry_login_incorrect: Entschuldigung. Login nicht korrekt. Versuchen Sie es noch einmal.
+sorry_missed: Es tut mir leid, das habe ich verpasst.
+sorry_no_messages: Es tut uns leid, es gibt keine weiteren Nachrichten. Ihr Wunsch ist uns Befehl. Ganz sicher.
+sorry_didnt_quite_get: Entschuldigung, das habe ich nicht ganz verstanden.
+sorrydave: Es tut mir leid, Dave, aber ich fürchte, ich kann das nicht tun.
+still_on_phone: ist immer noch am Telefon. Oh Mann, plappert wie ein Wasserfall.
+sure_help: Sicher. Ich kann Ihnen dabei helfen.
+talkin_me: Sprechen Sie mit mir?
+telemarketercalling: Telemarketing-Anrufe wurden von Ihrer Nummer aus gemeldet.
+thank_you_calling: Danke, dass Sie angerufen haben.
+thanks-annoyance: Danke, dass Sie angerufen haben. Bitte warten Sie einen Moment, während ich jemanden suche, der sich mit Ihrem ständigen Beschweren und Jammern abgeben wird.
+timewarp: Aufgrund des vorübergehenden Auftretens eines Zeitdefekts in der Umgebung wird niemand hier sein, um für mindestens ein Jahrhundert zu antworten. Bitte hinterlassen Sie eine Nachricht nach dem Signalton und wir werden mindestens einen Monat vor Ihrem Anruf antworten. Vielen Dank und einen schönen Tag noch.
+tone_time: "Beim Signalton wird die Uhrzeit wie folgt sein: "
+transfer_to_agent: Ich denke, ich sollte Sie an einen Agenten weiterleiten. Warten Sie bitte.
+unicorn_blood_MIXDOWN: Asterisk ist eine Open-Source-Telefonanlage und IVR-Plattform, die auf dem Linux-Betriebssystem und ein bisschen Einhornblut läuft. Weitere Informationen finden Sie unter Asterisk.org.
+unicorn_blood: Asterisk ist eine Open-Source-Telefonanlage und IVR-Plattform, die auf dem Linux-Betriebssystem und ein bisschen Einhornblut läuft. Weitere Informationen finden Sie unter Asterisk.org.
+unwelcomecall: Ihr Anruf ist unerwünscht.
+watson: Es tut uns leid, die Person, die Sie erreichen möchten, heißt nicht Watson. Wir würden uns freuen, Ihnen zu helfen, müssen aber zuerst die Kinder vom Fußballtraining abholen. Wir werden uns so schnell wie möglich bei Ihnen zurückmelden.
+whoareyou: Darf ich fragen, wer anruft?
+wish_command_totally: Ja? Wäre es Ihnen recht, wenn ich Ihnen zeige, wie wir das in Kanada machen?
+woo_hoo_call_first: Woohoo! Ihr Anruf ist jetzt der Erste in der Warteschlange und wird vom nächsten verfügbaren Vertreter beantwortet.
+you_say_yes: Ray, wenn dich jemand fragt, ob du ein Gott bist, sag JA!
+yourcallisimportant: Ihr Anruf ist uns wichtig. Deshalb hören Sie die nächsten halbe Stunde die gleichen 10 Sekunden für 12 Cent pro Minute.
+yourcallisimpotent: Ihr Anruf ist uns unwichtig.
+zombies: Aufgrund der Anwesenheit von Zombies an der gewählten Stelle wurde das Büro evakuiert. Bitte hinterlassen Sie eine Nachricht und wir werden uns so schnell wie möglich bei Ihnen melden, es sei denn, die Apokalypse tritt zuerst ein. In diesem Fall werden wir wahrscheinlich andere Prioritäten haben.
+pls-listen-options-changed: Bitte hören Sie aufmerksam zu, da die Menüoptionen geändert wurden.
