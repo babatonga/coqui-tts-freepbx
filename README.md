@@ -13,7 +13,11 @@ Before you begin, ensure the following dependencies are installed:
 - **Python 3**: Supported versions are >= 3.9 and < 3.13.
 - Additional dependencies might be required depending on the chosen TTS model and operating system (e.g., `espeak-ng` for certain configurations).
 
-## Usage Instructions
+## Usage Instruction (use prebuild sounds)
+See [wiki: Installing Sound Files in FreePBX](babatonga/coqui-tts-freepbx/Installing-Sound-Files-in-FreePBX)
+
+
+## Usage Instructions (build your own)
 
 ### Getting Started
 Currently, the script has been tested only for German text. The recommended model for optimal results is `"tts_models/de/thorsten/vits"`. While `"tts_models/de/thorsten/tacotron2-DDC"` provides a richer sound quality, it may crash when processing short words (see Known Issues below).
