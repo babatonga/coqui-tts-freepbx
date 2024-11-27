@@ -4,7 +4,14 @@
 
 This project facilitates the creation of high-quality sound files for Asterisk using Coqui-TTS. It supports various audio formats and offers configurable options for different TTS models and languages.
 
-## Prerequisites
+
+## Usage Instruction (use prebuild sounds)
+See [wiki: Installing Sound Files in FreePBX](https://github.com/babatonga/coqui-tts-freepbx/wiki/Installing-Sound-Files-in-FreePBX)
+
+
+## Usage Instructions (build your own)
+
+### Prerequisites
 
 Before you begin, ensure the following dependencies are installed:
 
@@ -12,12 +19,6 @@ Before you begin, ensure the following dependencies are installed:
 - **sox**: [https://sourceforge.net/projects/sox/](https://sourceforge.net/projects/sox/)
 - **Python 3**: Supported versions are >= 3.9 and < 3.13.
 - Additional dependencies might be required depending on the chosen TTS model and operating system (e.g., `espeak-ng` for certain configurations).
-
-## Usage Instruction (use prebuild sounds)
-See [wiki: Installing Sound Files in FreePBX](https://github.com/babatonga/coqui-tts-freepbx/wiki/Installing-Sound-Files-in-FreePBX)
-
-
-## Usage Instructions (build your own)
 
 ### Getting Started
 Currently, the script has been tested only for German text. The recommended model for optimal results is `"tts_models/de/thorsten/vits"`. While `"tts_models/de/thorsten/tacotron2-DDC"` provides a richer sound quality, it may crash when processing short words (see Known Issues below).
